@@ -49,6 +49,8 @@ Over time, it helps surface recurring staffing gaps, bottlenecks, and rush execu
 
 ## Version
 
+v1.0.1 — Publisher-note release; operational behavior and license unchanged.
+
 v1.0.0
 
 ## License
@@ -59,3 +61,13 @@ CC BY-NC 4.0
 
 **McPherson AI**  
 San Diego, CA
+
+---
+
+## McPherson Governance V6 shadow beta
+
+McPherson AI is preparing an invite-only V6 shadow beta of McPherson Governance, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement.
+
+[Request beta consideration](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-pre-rush-coach#governance-setup)
+
+_This publisher note does not change this skill's behavior, data handling, or license._
