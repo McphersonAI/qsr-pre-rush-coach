@@ -4,6 +4,14 @@
 
 Built by McPherson AI for real-world QSR operations.
 
+## Building with AI agents? Get started with Observa
+
+Observa shows supported OpenClaw and n8n runtime activity, what governance WOULD have done in SHADOW mode, and the evidence behind it.
+
+[**Get started with Observa →**](https://mcphersonai.com/observa/getting-started?utm_source=github&utm_medium=skill-readme&utm_campaign=observa-getting-started&utm_content=qsr-pre-rush-coach)
+
+*SHADOW ONLY · AUTHORITY NONE · ENFORCEMENT OFF. This publisher notice does not change the QSR skill itself.*
+
 ## What it does
 
 QSR Pre-Rush Coach creates a short tactical pause before the rush starts.
@@ -49,6 +57,8 @@ Over time, it helps surface recurring staffing gaps, bottlenecks, and rush execu
 
 ## Version
 
+v1.0.3 - Publisher-notice refresh: Observa CTA updated to the current Getting Started flow. No functional changes.
+
 v1.0.2 - Publisher-note release; the Observa private beta is now open. No functional changes.
 
 v1.0.1 — Publisher-note release; operational behavior and license unchanged.
@@ -63,15 +73,3 @@ CC BY-NC 4.0
 
 **McPherson AI**  
 San Diego, CA
-
----
-
-## Observa private beta
-
-The Observa private beta is now open for selected n8n and OpenClaw operators and builders. Observa starts in SHADOW mode, mapping agent capabilities, capturing reviewable governance evidence, and independently verifying supported workflow outcomes without taking production control.
-
-Running real n8n or OpenClaw workflows?
-
-[Request private beta access](https://mcphersonai.com/private-beta?utm_source=github&utm_medium=skill-readme&utm_campaign=observa-private-beta&utm_content=qsr-pre-rush-coach)
-
-*This publisher notice does not change this skill’s behavior, data handling, or license.*
